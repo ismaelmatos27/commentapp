@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+textarea,button,input{
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 10px;
+}
+#newComment{
+  font-size: 16px;
+  background-color: lightgrey;
+  border: 1px solid navy;
+  width: 50%;
+  margin: auto;
+  margin-top: 5px;
+}
+h3{
+  color: blue
+  
+}
